@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SinJeIwc
+- 👋 Hi, I’m Bekzhan
 - 👀 I'm a beginner programmer
 - 🌱 Now, I’m a student
 - 💞️ I'll learn to program. Because I enjoy learning programming
