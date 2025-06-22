@@ -33,6 +33,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SinJeIwc&show_icons=true&theme=default" width="48%" height="150"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinJeIwc&layout=compact&theme=default" width="48%" height="150"/>
 </p>
 
