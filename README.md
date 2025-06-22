@@ -18,7 +18,7 @@
 - Interested in building modern web apps and automation tools
 - Love cats
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJsMHp1NXd6dTVma2hnbWI5dHAzczl5d3RxMGp5cG5rdjJhanQwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="50%"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJsMHp1NXd6dTVma2hnbWI5dHAzczl5d3RxMGp5cG5rdjJhanQwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="250"/>
 </p>
 
 ---
