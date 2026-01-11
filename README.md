@@ -3,7 +3,6 @@
 <p align="center">
 🎓 Student at Ala-Too International University  
 💻 Web Developer | Python Enthusiast  
-📍 Bishkek, Kyrgyzstan  
 </p>
 
 ---
@@ -11,10 +10,10 @@
 ### 👨‍💻 About Me
 
 - Focused now: Frontend
-- Frontend: React, Next.js, TailwindCSS, ShadcnUI  
+- Frontend: React, Next.js 
 - Backend: FastAPI (Python), aiogram (Telegram Bots)  
 - Core: JavaScript, HTML, CSS, Python  
-- Working on projects with [ARAWE Team](https://github.com/orgs/arawe-kg)  
+- Working on projects with [ARAWE Team](https://github.com/orgs/arawe)  
 - Interested in building modern web apps and automation tools
 - Love cats
 <p align="center">
@@ -33,17 +32,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinJeIwc&layout=compact&theme=default" width="48%" height="150"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SinJeIwc&show_icons=true&theme=default" width="48%" height="150"/>
-</p>
-
----
-
 ### 📫 Contact
 
-- Telegram: [@fallinginlife](https://t.me/fallinginlife)
+- Telegram: [@fallingwithlife](https://t.me/fallingwithlife)
