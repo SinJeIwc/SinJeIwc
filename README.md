@@ -13,7 +13,7 @@
 - Frontend: React, Next.js 
 - Backend: FastAPI (Python), aiogram (Telegram Bots)  
 - Core: JavaScript, HTML, CSS, Python  
-- Working on projects with [ARAWE Team](https://github.com/orgs/arawe)  
+- Working on projects with [ARAWE Team](https://github.com/orgs/araweare)  
 - Interested in building modern web apps and automation tools
 - Love cats
 <p align="center">
