@@ -1,37 +1,38 @@
-<h1 align="center">Bekzhan — Frontend Developer</h1>
+# Hi, I'm Bekzhan 👋
 
-<p align="center">
-🎓 Student at Ala-Too International University  
-💻 Web Developer | Python Enthusiast  
-</p>
+Software Engineer • Fullstack • 
 
----
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-### 👨‍💻 About Me
+![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-- Focused now: Frontend
-- Frontend: React, Next.js 
-- Backend: FastAPI (Python), aiogram (Telegram Bots)  
-- Core: JavaScript, HTML, CSS, Python  
-- Working on projects with [ARAWE Team](https://github.com/orgs/araweare)  
-- Interested in building modern web apps and automation tools
-- Love cats
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODJsMHp1NXd6dTVma2hnbWI5dHAzczl5d3RxMGp5cG5rdjJhanQwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="60%"/>
-</p>
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+
+![Asia](https://img.shields.io/badge/-Asia-FF6A00?style=flat-square)
 
 ---
 
-### 🧰 Tech Stack
+## About
 
-- **Languages:** JavaScript, Python, HTML, CSS  
-- **Frontend:** React, Next.js, TailwindCSS, ShadcnUI  
-- **Backend:** FastAPI, aiogram  
-- **Tools:** Git, GitHub, VS Code, Figma  
-- **Other:** Telegram Bots, REST API
+Software Engineer building systems across web and mobile.
+
+Focused on creating my own cool app for regular users
 
 ---
 
-### 📫 Contact
+## at the research stage...
 
-- Telegram: [@fallingwithlife](https://t.me/fallingwithlife)
+Backend systems • AI integration 
+
+---
+
+## Connect
+
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/fallingwithlife)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bekzhan-arstanaliev-312654381/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SinJeIwc)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hp.arstanaliev@gmail.com)
