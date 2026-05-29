@@ -9,7 +9,7 @@ Software Engineer • Fullstack •
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
 ![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
-![Asia](https://img.shields.io/badge/-Asia-FF6A00?style=flat-square)
+![Asia](https://img.shields.io/badge/-Asia%20❤️-FF6A00?style=flat-square)
 
 ---
 
